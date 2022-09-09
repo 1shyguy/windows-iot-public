@@ -43,7 +43,7 @@ A fixed purpose device differs from a general-purpose device in the following wa
 
 
 ## General Availability Channel
-In the general availability servicing channel, feature updates are available as soon as Microsoft releases them. This servicing model is ideal for pilot deployments and testing of Windows 10 feature updates and for users such as developers who need to work with the latest features immediately. Once the latest release has gone through pilot deployment and testing, you will be able to choose the timing at which it goes into broad deployment.
+In the general availability servicing channel, feature updates are available as soon as Microsoft releases them. This servicing model is ideal for pilot deployments and testing of Windows feature updates and for users such as developers who need to work with the latest features immediately. Once the latest release has gone through pilot deployment and testing, you will be able to choose the timing at which it goes into broad deployment.
 
 Please review [General Availability Channel](/windows/deployment/update/waas-overview#servicing) for more information.
 
